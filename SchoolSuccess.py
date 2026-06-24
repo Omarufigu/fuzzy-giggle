@@ -1,6 +1,6 @@
 """
-Name: Royal Reality
-Email: theprince109109@gmail.com
+Name: Omar Figueroa
+Email: omar.figueroa890@myhunter.cuny.edu
 Resources: Used course assignment handout and ChatGPT for code drafting.
 """
 
